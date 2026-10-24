@@ -41,3 +41,9 @@ test_*.js
 
 *.log
 seed_log*.txt
+
+# Local data and cache
+__pycache__/
+*.pyc
+data/
+mongodb_data/
